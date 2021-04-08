@@ -91,7 +91,7 @@
     display: block;
 }
 .future .col.cut-corner {
-    background: linear-gradient(-45deg, transparent 45px,#fff 0);
+    background: linear-gradient(-45deg, transparent 30px,#fff 0);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
